@@ -1,7 +1,5 @@
 printf("im sujitha")
 printf("in free class")
-printf("amity university banglure")
-printf("cse")
-printf("jai bheem")
-
+printf("amity university Banglure ")
+jai jai
 
